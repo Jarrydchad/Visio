@@ -197,6 +197,24 @@
     <Content Include="Models\Model1.edmx.diagram">
       <DependentUpon>Model1.edmx</DependentUpon>
     </Content>
+    <Content Include="fonts\Metropolis-Black.otf" />
+    <Content Include="fonts\Metropolis-BlackItalic.otf" />
+    <Content Include="fonts\Metropolis-Bold.otf" />
+    <Content Include="fonts\Metropolis-BoldItalic.otf" />
+    <Content Include="fonts\Metropolis-ExtraBold.otf" />
+    <Content Include="fonts\Metropolis-ExtraBoldItalic.otf" />
+    <Content Include="fonts\Metropolis-ExtraLight.otf" />
+    <Content Include="fonts\Metropolis-ExtraLightItalic.otf" />
+    <Content Include="fonts\Metropolis-Light.otf" />
+    <Content Include="fonts\Metropolis-LightItalic.otf" />
+    <Content Include="fonts\Metropolis-Medium.otf" />
+    <Content Include="fonts\Metropolis-MediumItalic.otf" />
+    <Content Include="fonts\Metropolis-Regular.otf" />
+    <Content Include="fonts\Metropolis-RegularItalic.otf" />
+    <Content Include="fonts\Metropolis-SemiBold.otf" />
+    <Content Include="fonts\Metropolis-SemiBoldItalic.otf" />
+    <Content Include="fonts\Metropolis-Thin.otf" />
+    <Content Include="fonts\Metropolis-ThinItalic.otf" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
@@ -223,6 +241,7 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Login.cshtml" />
+    <Content Include="Visio App.zip" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
